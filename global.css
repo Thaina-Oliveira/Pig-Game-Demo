@@ -131,19 +131,19 @@ main {
 
 .btn--new {
   background-image: linear-gradient(to top left, #d89d51 0%, #bf2e34 100%);
-  top: 20%;
+  top: 30%;
 }
 .btn--rules {
-  top: 26%;
+  top: 45%;
 }
 .btn:hover {
   background-color: rgba(155, 152, 152, 0.658);
 }
 .btn--roll {
-  top: 65%;
+  top: 55%;
 }
 .btn--hold {
-  top: 71%;
+  top: 70%;
 }
 
 .btn:active {
@@ -158,7 +158,7 @@ main {
 .dice {
   position: absolute;
   left: 50%;
-  top: 50%;
+  top: 45%;
   transform: translateX(-50%);
   height: 10rem;
   box-shadow: 0 2rem 5rem rgba(0, 0, 0, 0.2);
