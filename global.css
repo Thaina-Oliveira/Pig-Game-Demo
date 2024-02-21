@@ -131,19 +131,19 @@ main {
 
 .btn--new {
   background-image: linear-gradient(to top left, #d89d51 0%, #bf2e34 100%);
-  top: 30%;
+  top: 25%;
 }
 .btn--rules {
-  top: 45%;
+  top: 35%;
 }
 .btn:hover {
   background-color: rgba(155, 152, 152, 0.658);
 }
 .btn--roll {
-  top: 55%;
+  top: 65%;
 }
 .btn--hold {
-  top: 70%;
+  top: 75%;
 }
 
 .btn:active {
