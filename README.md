@@ -1,4 +1,4 @@
-# Pid Dice Game
+# Pig Dice Game
 Pig Dice Game project taught by Jonas Schmedtmann during the JS course "The Complete JavaScript Course 2024: From Zero to Expert!", using vanilla JavaScript, HTML and CSS.
 
 ## Table of Content
