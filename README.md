@@ -10,7 +10,7 @@ Pig Dice Game project taught by Jonas Schmedtmann during the JS course "The Comp
 
 ## 🔗Preview
 
-<a href="https://thaina-oliveira.github.io/Pig-Game-Demo/"><img src="Pig game demo preview.jpg"></a>
+<a href="https://thaina-oliveira.github.io/Pig-Game-Demo/"><img src="game preview.jpg"></a>
 
 ## 💻Project
 
